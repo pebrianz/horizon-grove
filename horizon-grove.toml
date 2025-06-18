@@ -3,15 +3,15 @@ string = "#f9ca99"
 constant = "#F09483"
 "constant.numeric" = "orange"
 "constant.builtin" = "orange"
-variable = "#ffffff"
+variable = "white"
 attribute = "#30AAD7"
 comment = "#959595"
 special = "purple"
 "punctuation" = "#21BFC2"
 "punctuation.bracket" = "purple"
 "punctuation.delimiter" = "white"
-keyword = "#56C2E"
-function = "blue"
+keyword = "#14D386"
+function ="#21BFC2"
 label = "orange"
 type = "orange"
 constructor = "orange"
@@ -61,16 +61,16 @@ info = { fg = "blue", modifiers = ["bold"] }
 hint = { fg = "green", modifiers = ["bold"] }
 
 # Markup
-"markup.heading" = "pink"
-"markup.list" = "light-gray"
+"markup.heading" = "#56C2EA"
+"markup.list" ="#B877DB"
 "markup.list.checked" = "green"
 "markup.list.unchecked" = "light-gray"
 "markup.bold" = { modifiers = ["bold"] }
 "markup.italic" = { modifiers = ["italic"] }
 "markup.strikethrough" = { modifiers = ["crossed_out"] }
 "markup.link" = "blue"
-"markup.quote" = "orange"
-"markup.raw" = "orange"
+"markup.quote" = "#f9ca99"
+"markup.raw" = "#14D386"
 
 "diff.plus" = "green"
 "diff.minus" = "red"
