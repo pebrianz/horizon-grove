@@ -4,7 +4,9 @@
 
 Horizon Grove is a serene, green-leaning theme adapted from **Horizon Cold** VSCode. Blending soft emerald and forest hues, it's designed for developers who prefer a nature-infused palette that's easy on the eyes.
 
-![Screenshot](screenshot.png)
+---
+
+<img src="screenshot.png" width="50%">
 
 ---
 <!--
