@@ -19,7 +19,8 @@ namespace = "orange"
 tag = "red"
 
 # User Interface
-"ui.background" = { bg = "#1C1E26", fg = "#ffffff" }
+# "ui.background" = { bg = "#1C1E26", fg = "#ffffff" }
+"ui.background" = {}
 "ui.background.separator" = "light-gray"
 "ui.text" = "white"
 "ui.text.focus" = "green"
