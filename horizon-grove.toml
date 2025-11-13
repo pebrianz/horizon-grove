@@ -20,7 +20,9 @@ tag = "red"
 
 # User Interface
 # "ui.background" = { bg = "#1C1E26", fg = "#ffffff" }
-"ui.background" = {}
+# "ui.background" = { bg = "#252B2D", fg = "#ffffff" }
+"ui.background" = { bg = "#1F2529", fg = "#ffffff" }  
+ # "ui.background" = {}   
 "ui.background.separator" = "light-gray"
 "ui.text" = "white"
 "ui.text.focus" = "green"
@@ -91,3 +93,4 @@ brown = "#F09383"
 purple = "#B877DB"
 red = "#E95678"
 blue = "#25B2BC"
+
